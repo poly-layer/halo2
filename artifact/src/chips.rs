@@ -1,4 +1,4 @@
-
+mod chips;
 
 use std::{
     marker::PhantomData,
