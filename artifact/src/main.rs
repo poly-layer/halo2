@@ -1,4 +1,6 @@
-
+mod fibonacci;
+mod regex;
+mod poseidon;
 
 use std::{
     marker::PhantomData,
